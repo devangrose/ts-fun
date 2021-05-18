@@ -16,3 +16,5 @@ type Person = {
 }
 
 let user: Person = userJSON;
+
+console.log( user );

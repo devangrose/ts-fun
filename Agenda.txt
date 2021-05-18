@@ -4,14 +4,13 @@ Typescript - not so scary!
 
 * Standard 99% of uses
     - primitive types 
-        - boolean:
-        - integer:
-        - array:
-        - String:
-        - enums:
-
-    - nullable types
-    - function types
+        - boolean: boolean
+        - integer: number
+        - array: Type[]
+        - String: string
+        - enums: Enum
+    - nullable types: let user: User?;
+    - function types: (wantedInteger: number, wantedBoolean: boolean) => number
 
 * React component
     - Simple props/state
