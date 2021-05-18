@@ -1,0 +1,29 @@
+Typescript - not so scary!
+
+* What is it? Why is it useful? Why should we use it?
+
+* Standard 99% of uses
+    - primitive types 
+        - boolean:
+        - integer:
+        - array:
+        - String:
+        - enums:
+
+    - nullable types
+    - function types
+
+* React component
+    - Simple props/state
+    - Importing
+        - "As *" 
+        - Require
+    
+* "Any" types
+    - When to use them (casting)
+    - When not to use them
+
+* Pitfalls
+    - Untyped packages
+    - Standard objects (i.e. Window) that can be changed
+    - Incomplete types (and the "any" workaround)
